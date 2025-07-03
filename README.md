@@ -30,15 +30,15 @@ This is a **static clone** of the Amazon homepage built using **pure HTML and CS
 
 ## 🔗 Live Demo
 
-👉 [View Live Demo](https://yourusername.github.io/amazon-clone/)  
-*(Replace the above URL with your actual GitHub Pages link)*
+👉 [View Live Demo](https://github.com/sahanahc123/CSS-Project)  
+
 
 ## 🙋‍♀️ About Me
 
 I’m a passionate aspiring frontend developer constantly learning and building projects to improve my skills.
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahanahc/)
+- 💻 [GitHub](https://github.com/sahanahc123)
 
 
 
