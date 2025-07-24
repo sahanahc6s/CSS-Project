@@ -30,7 +30,7 @@ This is a **static clone** of the Amazon homepage built using **pure HTML and CS
 
 ## 🔗 Live Demo
 
-👉 [View Live Demo](https://github.com/sahanahc123/CSS-Project)  
+👉 [View Live Demo]([https://github.com/sahanahc123/CSS-Project](https://sahanahc123.github.io/CSS-Project/))  
 
 
 ## 🙋‍♀️ About Me
