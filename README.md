@@ -30,7 +30,7 @@ This is a **static clone** of the Amazon homepage built using **pure HTML and CS
 
 ## 🔗 Live Demo
 
-👉 [https://sahanahc123.github.io/CSS-Project/] 
+👉 [https://sahanahc6s.github.io/CSS-Project/] 
 
 
 ## 🙋‍♀️ About Me
@@ -38,7 +38,7 @@ This is a **static clone** of the Amazon homepage built using **pure HTML and CS
 I’m a passionate aspiring frontend developer constantly learning and building projects to improve my skills.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahanahc/)
-- 💻 [GitHub](https://github.com/sahanahc123)
+- 💻 [GitHub](https://github.com/sahanahc6s)
 
 
 
